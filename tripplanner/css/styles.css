@@ -1,0 +1,410 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 300 1em/1.38 Roboto;
+  color: rgb(0,0,0);
+}
+
+.calendar {
+  float: left;
+  clear: both;
+  width: 18.8490408673%;
+  height: 261px;
+  margin: 16px 0 0 23.603002502%;
+}
+
+.calendar .image {
+  position: relative;
+}
+
+.checkbox {
+  display: inline-block;
+  float: left;
+}
+
+.container {
+  float: left;
+  clear: both;
+  width: 96.4601769911%;
+  height: 913px;
+  margin: -777px 0 0 0.0804505229%;
+}
+
+.dateselectedabove {
+  float: left;
+  width: 3.6697247706%;
+  height: 20px;
+  margin: -20px 0 0 49.2076730608%;
+  background-color: rgb(222, 222, 222);
+}
+
+.destinationselected {
+  float: left;
+  width: 3.6697247706%;
+  height: 20px;
+  margin: -20px 0 0 38.7823185988%;
+  background-color: rgb(222, 222, 222);
+}
+
+.fall {
+  display: block;
+  float: left;
+  width: 12.0100083402%;
+  height: 22px;
+  margin: -193px 0 0 44.0366972477%;
+}
+
+.header {
+  width: 100%;
+  height: 70px;
+  margin: -847px auto 0;
+  background-color: rgb(20, 170, 185);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+}
+
+.hotel1 {
+  float: left;
+  width: 39.1993327773%;
+  height: 77px;
+  margin: 55px 0 0 23.603002502%;
+  border: 1px dotted rgb(170, 170, 170);
+}
+
+.hotel2 {
+  float: left;
+  clear: both;
+  width: 39.1993327773%;
+  height: 77px;
+  margin-left: 23.603002502%;
+  border: 1px dotted rgb(170, 170, 170);
+}
+
+.hotel1 .checkbox,
+.hotel2 .checkbox {
+  margin: 11px 0 0 1.2765957446%;
+}
+
+.hotel1 .point-text,
+.hotel2 .point-text {
+  margin: 11px 0 0 1.4893617021%;
+}
+
+.hotel1 .text,
+.hotel2 .text {
+  width: 25.1063829787%;
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.logo {
+  display: block;
+  float: left;
+  width: 11.5848753016%;
+  min-height: 28px;
+  margin: 602px 0 0 9.6540627514%;
+  font: 400 1.563em/1.38 'Fauna One';
+  color: rgb(255, 255, 255);
+}
+
+.multicity {
+  display: block;
+  float: left;
+  width: 12.0100083402%;
+  height: 33px;
+  margin: 41px 0 0 1.6680567139%;
+  border-radius: 3px;
+  background-color: rgb(230, 230, 230);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  font-weight: 100;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(153, 153, 153);
+  resize: none;
+}
+
+.nav {
+  float: left;
+  width: 100%;
+  height: 70px;
+  margin-top: -578px;
+}
+
+.nearme {
+  display: block;
+  float: left;
+  width: 37px;
+  height: auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  overflow: hidden;
+}
+
+.numberofpeopleselected {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 34;
+  width: 3.6697247706%;
+  height: 20px;
+  margin: -20px 0 0 29.5246038365%;
+  background-color: rgb(222, 222, 222);
+}
+
+.oneway {
+  display: block;
+  float: left;
+  clear: both;
+  width: 12.0100083402%;
+  height: 33px;
+  margin: 41px 0 0 23.5195996663%;
+  border-radius: 3px;
+  background-color: rgb(18, 162, 176);
+  font-weight: 100;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  resize: none;
+}
+
+.point-text {
+  display: inline-block;
+  float: left;
+  line-height: 1.38;
+}
+
+.roundtrip {
+  display: block;
+  float: left;
+  width: 12.0100083402%;
+  height: 33px;
+  margin: 41px 0 0 1.5846538782%;
+  border-radius: 3px;
+  background-color: rgb(230, 230, 230);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  font-weight: 100;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(153, 153, 153);
+  resize: none;
+}
+
+.spring {
+  display: block;
+  float: left;
+  width: 12.0100083402%;
+  height: 22px;
+  margin: 13px 0 0 1.5846538782%;
+}
+
+.summer {
+  display: block;
+  float: left;
+  clear: both;
+  width: 12.0100083402%;
+  height: 22px;
+  margin: -229px 0 0 44.0366972477%;
+}
+
+.text {
+  float: left;
+  line-height: 1.38;
+  color: rgb(0,0,0);
+}
+
+.winter {
+  display: block;
+  float: left;
+  width: 12.0100083402%;
+  height: 22px;
+  margin: -160px 0 0 44.0366972477%;
+}
+
+.fall .checkbox,
+.spring .checkbox,
+.summer .checkbox,
+.winter .checkbox {
+  margin-top: 3px;
+}
+
+.fall .point-text,
+.spring .point-text,
+.summer .point-text,
+.winter .point-text {
+  margin-left: 9.0277777777%;
+}
+
+.wrapper {
+  float: left;
+  width: 103.5833333333%;
+  height: 780px;
+  margin-top: 847px;
+}
+
+._button {
+  display: block;
+  float: left;
+  clear: both;
+  width: 39.282735613%;
+  height: 52px;
+  margin: 83px 0 0 23.5195996663%;
+  border-radius: 3px;
+  background-color: rgb(222, 222, 222);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  resize: none;
+}
+
+._input {
+  display: block;
+  float: left;
+  clear: both;
+  width: 32.4437030859%;
+  height: 37px;
+  margin-left: 23.5195996663%;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+  font-size: 0.813em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.image-1 {
+  z-index: 18;
+  width: 226px;
+}
+
+.image-2 {
+  clear: both;
+  z-index: 20;
+  width: 26px;
+  margin: -254px 0 0 3.0973451327%;
+}
+
+.image-3 {
+  z-index: 19;
+  width: 26px;
+  margin: -254px 0 0 84.0707964601%;
+}
+
+.image-4 {
+  clear: both;
+  width: 471px;
+  margin: 24px 0 0 23.5195996663%;
+}
+
+.image-5,
+.image-7 {
+  width: 77px;
+  margin-left: 1.4893617021%;
+}
+
+.image-6,
+.image-8 {
+  clear: both;
+  width: 65px;
+  margin: -44px 0 0 23.829787234%;
+}
+
+.text-1 {
+  clear: both;
+  width: 32.4437030859%;
+  min-height: 40px;
+  margin: 34px 0 0 23.5195996663%;
+  font-size: 1.563em;
+}
+
+.text-10,
+.text-12 {
+  min-height: 27px;
+  margin: -51px 0 0 69.3617021276%;
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+.text-11,
+.text-13 {
+  min-height: 8px;
+  margin: -24px 0 0 23.829787234%;
+  font-size: 0.75em;
+}
+
+.text-2 {
+  clear: both;
+  width: 32.4437030859%;
+  min-height: 40px;
+  margin: 39px 0 0 23.5195996663%;
+  font-size: 1.563em;
+}
+
+.text-3 {
+  clear: both;
+  width: 32.4437030859%;
+  min-height: 40px;
+  margin: 38px 0 0 23.5195996663%;
+  font-size: 1.563em;
+}
+
+.text-4 {
+  clear: both;
+  width: 32.4437030859%;
+  min-height: 20px;
+  margin: 16px 0 0 23.5195996663%;
+  font-size: 0.75em;
+}
+
+.text-5 {
+  width: 32.4437030859%;
+  min-height: 40px;
+  margin: 99px 0 0 23.5195996663%;
+  font-size: 1.563em;
+}
+
+.text-6 {
+  clear: both;
+  width: 32.4437030859%;
+  min-height: 40px;
+  margin: 62px 0 0 23.603002502%;
+  font-size: 1.563em;
+}
+
+.text-7 {
+  position: relative;
+  clear: both;
+  z-index: 31;
+  width: 6.8390325271%;
+  min-height: 20px;
+  margin: 15px 0 0 23.5195996663%;
+  font-size: 0.75em;
+}
+
+.text-8 {
+  width: 4.6705587989%;
+  min-height: 20px;
+  margin: -20px 0 0 33.778148457%;
+  font-size: 0.75em;
+}
+
+.text-9 {
+  width: 4.6705587989%;
+  min-height: 20px;
+  margin: -20px 0 0 44.0366972477%;
+  font-size: 0.75em;
+}
+
+._text-1 {
+  float: left;
+  width: 32.3603002502%;
+  min-height: 40px;
+  margin: 56px 0 0 16.8473728106%;
+  font-size: 1.563em;
+  line-height: 1.38;
+  color: rgb(20, 170, 185);
+}
